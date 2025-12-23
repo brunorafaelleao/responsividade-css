@@ -1,5 +1,5 @@
 ## Esse repositório é sobre um projeto de um site simples de compra de domínios
 
-### Link dos íncones usados
+### Site dos ícones usados (link)
 
-#### <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+#### https://cdnjs.com/libraries/font-awesome
