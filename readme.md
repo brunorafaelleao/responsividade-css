@@ -1,0 +1,1 @@
+## Esse repositório é sobre um projeto de um site simples de compra de domínios
